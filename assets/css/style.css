@@ -535,6 +535,8 @@ h6 {
 
   #hero .callout{
     margin-top:0px;
+    margin-bottom: 60px;
+    height: 140px;
   }
 }
 
