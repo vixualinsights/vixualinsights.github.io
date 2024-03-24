@@ -535,9 +535,9 @@ h6 {
   }
 
   #hero .callout{
-    margin-top:0px;
-    margin-bottom: 80px;
-    height: 120px;
+    margin-top:-10px;
+    margin-bottom: 100px;
+    height: 130px;
   }
 }
 
@@ -555,7 +555,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 50px 0;
   overflow: hidden;
 }
 
